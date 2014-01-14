@@ -1,0 +1,55 @@
+ Package         Name                                                    Type    Status         Version       
+ Administration  Administration Development tools (admin_devel)          Module  Not installed  7.x-3.0-rc4   
+ Administration  Administration menu (admin_menu)                        Module  Enabled        7.x-3.0-rc4   
+ Administration  Administration menu Toolbar style (admin_menu_toolbar)  Module  Not installed  7.x-3.0-rc4   
+ Core            Aggregator (aggregator)                                 Module  Not installed  7.24          
+ Core            Block (block)                                           Module  Enabled        7.24          
+ Core            Blog (blog)                                             Module  Enabled        7.24          
+ Core            Book (book)                                             Module  Enabled        7.24          
+ Core            Color (color)                                           Module  Not installed  7.24          
+ Core            Comment (comment)                                       Module  Enabled        7.24          
+ Core            Contact (contact)                                       Module  Enabled        7.24          
+ Core            Content translation (translation)                       Module  Not installed  7.24          
+ Core            Contextual links (contextual)                           Module  Not installed  7.24          
+ Core            Dashboard (dashboard)                                   Module  Enabled        7.24          
+ Core            Database logging (dblog)                                Module  Enabled        7.24          
+ Core            Field (field)                                           Module  Enabled        7.24          
+ Core            Field SQL storage (field_sql_storage)                   Module  Enabled        7.24          
+ Core            Field UI (field_ui)                                     Module  Enabled        7.24          
+ Core            File (file)                                             Module  Enabled        7.24          
+ Core            Filter (filter)                                         Module  Enabled        7.24          
+ Core            Forum (forum)                                           Module  Not installed  7.24          
+ Core            Help (help)                                             Module  Not installed  7.24          
+ Core            Image (image)                                           Module  Enabled        7.24          
+ Core            List (list)                                             Module  Not installed  7.24          
+ Core            Locale (locale)                                         Module  Enabled        7.24          
+ Core            Menu (menu)                                             Module  Enabled        7.24          
+ Core            Node (node)                                             Module  Enabled        7.24          
+ Core            Number (number)                                         Module  Enabled        7.24          
+ Core            OpenID (openid)                                         Module  Not installed  7.24          
+ Core            Options (options)                                       Module  Enabled        7.24          
+ Core            Overlay (overlay)                                       Module  Not installed  7.24          
+ Core            Path (path)                                             Module  Enabled        7.24          
+ Core            PHP filter (php)                                        Module  Not installed  7.24          
+ Core            Poll (poll)                                             Module  Not installed  7.24          
+ Core            RDF (rdf)                                               Module  Not installed  7.24          
+ Core            Search (search)                                         Module  Enabled        7.24          
+ Core            Shortcut (shortcut)                                     Module  Not installed  7.24          
+ Core            Statistics (statistics)                                 Module  Not installed  7.24          
+ Core            Syslog (syslog)                                         Module  Not installed  7.24          
+ Core            System (system)                                         Module  Enabled        7.24          
+ Core            Taxonomy (taxonomy)                                     Module  Enabled        7.24          
+ Core            Testing (simpletest)                                    Module  Not installed  7.24          
+ Core            Text (text)                                             Module  Enabled        7.24          
+ Core            Toolbar (toolbar)                                       Module  Not installed  7.24          
+ Core            Tracker (tracker)                                       Module  Not installed  7.24          
+ Core            Trigger (trigger)                                       Module  Not installed  7.24          
+ Core            Update manager (update)                                 Module  Enabled        7.24          
+ Core            User (user)                                             Module  Enabled        7.24          
+ Mail            SMTP Authentication Support (smtp)                      Module  Enabled        7.x-1.0       
+ Multilingual    Localization update (l10n_update)                       Module  Enabled        7.x-1.0-beta3 
+ Core            Bartik (bartik)                                         Theme   Enabled        7.24          
+ Core            Garland (garland)                                       Theme   Disabled       7.24          
+ Core            Seven (seven)                                           Theme   Disabled       7.24          
+ Core            Stark (stark)                                           Theme   Disabled       7.24          
+
